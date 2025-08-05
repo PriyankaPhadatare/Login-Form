@@ -4,14 +4,6 @@ A simple, responsive login form built using Spring Boot REST API with a responsi
 
 ---
 
-## 📸 Preview
-
-![Login Form Screenshot](screenshot.png)
-
-> *(Replace with actual image or GIF of your form UI)*
-
----
-
 ## 🚀 Features
 
 - Responsive layout for desktop and mobile
