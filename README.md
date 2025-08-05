@@ -23,14 +23,14 @@ A simple, responsive login form built using Spring Boot REST API with a responsi
 ---
 
 ##🛢️ Database Configuration
-# Server config
+ Server config
 server.port=8083
-# PostgreSQL DB config
+  **PostgreSQL DB config**
 spring.datasource.url=jdbc:postgresql://localhost:5432/miniauthdb
 spring.datasource.username=postgres
 spring.datasource.password=123
 
-# JPA config
+ **JPA config**
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
