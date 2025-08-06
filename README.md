@@ -96,7 +96,7 @@ http://localhost:3434
 ## 👩‍💻 Author
 
 Name:-   
-*Priyanka Phadatare*  
+**Priyanka Phadatare**  
 Email:-  
 priyankaphadatare162@gmail.com  
 Github :-    
