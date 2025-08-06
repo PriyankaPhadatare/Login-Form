@@ -71,31 +71,37 @@ http://localhost:3434
 
 
 ##🛢️ Database Configuration
- Server config
-server.port=8083
-
-  -PostgreSQL DB config
-spring.datasource.url=jdbc:postgresql://localhost:5432/miniauthdb
-spring.datasource.username=postgres
-spring.datasource.password=123
-
- -JPA config
-spring.jpa.hibernate.ddl-auto=update
-spring.jpa.show-sql=true
-spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
+ 
 -
 
-## 🛠️ Built With
+## 🛠️ Tech Stack
 
-- HTML
-- CSS
-- JavaScript 
-- spring tool
-- rest API
-- Postman
-- PostgreSQL
+| Layer        | Tech                      |
+|--------------|---------------------------|
+| Frontend     | HTML, CSS, JavaScript     |
+| Backend      | Spring Boot (REST API)    |
+| Database     | PostgreSQL                |
+| Architecture | MVC                       |
 
 ---
 
-## 📁 Folder Structure
+## 📸 Tested Using Postman
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/036b6a7d-52b9-4d67-ad87-d715a6c085e9" />
+
+## 📸Frontend Output
+
+<img width="1331" height="627" alt="image" src="https://github.com/user-attachments/assets/4fec9d10-49b6-4406-a420-a2fae2d05cb9" />
+
+## 👩‍💻 Author
+
+Name:-   
+*Priyanka Phadatare*  
+Email:-  
+priyankaphadatare162@gmail.com
+Github :-  
+https://github.com/PriyankaPhadatare
+
+
+
 
