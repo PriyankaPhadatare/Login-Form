@@ -5,7 +5,7 @@ A simple, responsive login form built using Spring Boot REST API with a responsi
 ---
 
 ## 📁 Project Structure
-'''
+```
 miniauthapp/
 ├── src/
 │   └── main/
@@ -24,7 +24,7 @@ miniauthapp/
 ├── frontend/
 │   └── index.html (includes all CSS and JS)
 └── README.md
-'''
+```
 
 ## 🚀 Features
 
