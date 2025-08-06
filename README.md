@@ -4,6 +4,27 @@ A simple, responsive login form built using Spring Boot REST API with a responsi
 
 ---
 
+## 📁 Project Structure
+miniauthapp/
+├── src/
+│   └── main/
+│       ├── java/com/example/miniauthapp/
+│       │   ├── controller/
+│       │   │   └── AuthController.java
+│       │   ├── model/
+│       │   │   └── User.java
+│       │   ├── repository/
+│       │   │   └── UserRepository.java
+│       │   ├── service/
+│       │   │   └── UserService.java
+│       │   └── MiniauthappApplication.java
+│       └── resources/
+│           └── application.properties
+├── frontend/
+│   └── index.html (includes all CSS and JS)
+└── README.md
+
+
 ## 🚀 Features
 
 - Responsive layout for desktop and mobile
@@ -13,6 +34,40 @@ A simple, responsive login form built using Spring Boot REST API with a responsi
 - Clean and modern UI using CSS Flexbox/Grid
 
 ---
+
+## ▶ How to Run the Project
+
+### 🧩 Step 1: Backend (Spring Boot + PostgreSQL)
+
+1. Clone the repository:
+bash
+git clone https://github.com/PriyankaPhadatare/Login-Form
+cd Login-Form 
+
+
+2. Set up your PostgreSQL database:
+   - Create a database: miniauthdb
+   
+3. Run the Spring Boot Application:
+bash
+./mvnw spring-boot:run
+
+   OR run it from *Eclipse STS* as Spring Boot App
+
+---
+### 🌐 Step 2: Frontend (HTML + CSS + JS)
+
+1. Open a terminal inside the frontend/ folder (where your index.html is located)
+
+2. Run the Python HTTP server:
+bash
+python -m http.server 3000
+
+
+3. Open your browser and go to:
+
+http://localhost:3434
+
 
 ##🛢️ Database Configuration
  Server config
