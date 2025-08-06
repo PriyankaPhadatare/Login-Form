@@ -98,8 +98,8 @@ http://localhost:3434
 Name:-   
 *Priyanka Phadatare*  
 Email:-  
-priyankaphadatare162@gmail.com
-Github :-  
+priyankaphadatare162@gmail.com  
+Github :-    
 https://github.com/PriyankaPhadatare
 
 
